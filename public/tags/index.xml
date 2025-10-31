@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Tobia&#39;s log</title>
-    <link>https://AleCava01.github.io/ZataiLog/tags/</link>
+    <link>https://alecava01.github.io/ZataiLog/tags/</link>
     <description>Recent content in Tags on Tobia&#39;s log</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
-    <atom:link href="https://AleCava01.github.io/ZataiLog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alecava01.github.io/ZataiLog/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
