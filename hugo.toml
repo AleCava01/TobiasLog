@@ -1,4 +1,4 @@
-baseURL = "https://alecava01.github.io/ZataiLog/"
+baseURL = "https://alecava01.github.io/TobiasLog/"
 languageCode = 'en-us'
 title = "Tobia's log"
 
@@ -21,7 +21,7 @@ imageHeight = 120
 
   [[params.profileMode.buttons]]
   name = "Archive"
-  url = "/ZataiLog/archive"
+  url = "/TobiasLog/archive"
 
   [[params.profileMode.buttons]]
   name = "Github"
