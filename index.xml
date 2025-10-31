@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tobia&#39;s log</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/ZataiLog/</link>
     <description>Recent content on Tobia&#39;s log</description>
     <generator>Hugo -- 0.151.0</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Oct 2025 17:46:33 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ZataiLog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neural Networks</title>
-      <link>http://localhost:1313/archive/neural_networks/</link>
+      <link>http://localhost:1313/ZataiLog/archive/neural_networks/</link>
       <pubDate>Fri, 31 Oct 2025 17:46:33 +0100</pubDate>
-      <guid>http://localhost:1313/archive/neural_networks/</guid>
+      <guid>http://localhost:1313/ZataiLog/archive/neural_networks/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The NN are very cool.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Study method</title>
-      <link>http://localhost:1313/archive/study_method/</link>
+      <link>http://localhost:1313/ZataiLog/archive/study_method/</link>
       <pubDate>Fri, 31 Oct 2025 17:46:33 +0100</pubDate>
-      <guid>http://localhost:1313/archive/study_method/</guid>
+      <guid>http://localhost:1313/ZataiLog/archive/study_method/</guid>
       <description>&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Metodo di studio sleale: &lt;a href=&#34;https://www.youtube.com/watch?v=dpIiJQs2c0Y&#34;&gt;https://www.youtube.com/watch?v=dpIiJQs2c0Y&lt;/a&gt;&lt;/li&gt;
@@ -33,25 +33,25 @@
     </item>
     <item>
       <title>All types websites development</title>
-      <link>http://localhost:1313/archive/make_websites/</link>
+      <link>http://localhost:1313/ZataiLog/archive/make_websites/</link>
       <pubDate>Fri, 31 Oct 2025 17:22:33 +0100</pubDate>
-      <guid>http://localhost:1313/archive/make_websites/</guid>
+      <guid>http://localhost:1313/ZataiLog/archive/make_websites/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The Brass Paradox is very cool.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Braess Paradox</title>
-      <link>http://localhost:1313/archive/braess_paradox/</link>
+      <link>http://localhost:1313/ZataiLog/archive/braess_paradox/</link>
       <pubDate>Fri, 31 Oct 2025 17:22:33 +0100</pubDate>
-      <guid>http://localhost:1313/archive/braess_paradox/</guid>
+      <guid>http://localhost:1313/ZataiLog/archive/braess_paradox/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The Brass Paradox is very cool.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Patente A da B da privatista</title>
-      <link>http://localhost:1313/archive/patente-a-da-b/</link>
+      <link>http://localhost:1313/ZataiLog/archive/patente-a-da-b/</link>
       <pubDate>Sat, 04 Oct 2025 00:16:35 +0200</pubDate>
-      <guid>http://localhost:1313/archive/patente-a-da-b/</guid>
+      <guid>http://localhost:1313/ZataiLog/archive/patente-a-da-b/</guid>
       <description>&lt;p&gt;Ciao, questa è la mia piccola guida su come ottenere la patente A avendo la B da privatista in Italia.
 Questo articolo si prefigge l&amp;rsquo;obiettivo di raccontare la mia esperienza, i costi sostenuti e dettagliare la pratica.&lt;/p&gt;
 &lt;h2 id=&#34;procedura&#34;&gt;Procedura&lt;/h2&gt;
@@ -66,9 +66,9 @@ Questo articolo si prefigge l&amp;rsquo;obiettivo di raccontare la mia esperienz
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/archive/my-first-post/</link>
+      <link>http://localhost:1313/ZataiLog/archive/my-first-post/</link>
       <pubDate>Fri, 03 Oct 2025 20:22:33 +0200</pubDate>
-      <guid>http://localhost:1313/archive/my-first-post/</guid>
+      <guid>http://localhost:1313/ZataiLog/archive/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This is my &lt;strong&gt;little&lt;/strong&gt; introduction.&lt;/p&gt;
 &lt;p&gt;I want to thank all my readers, it&amp;rsquo;s fun to have you here.&lt;/p&gt;</description>
