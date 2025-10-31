@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/archive/</loc>
+    <lastmod>2025-10-30T20:22:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/my-first-post-copy/</loc>
+    <lastmod>2025-10-30T20:22:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-30T20:22:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/patente-a-da-b/</loc>
+    <lastmod>2025-10-04T00:16:35+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-10-03T20:22:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/my-first-post/</loc>
+    <lastmod>2025-10-03T20:22:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
