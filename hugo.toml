@@ -9,8 +9,8 @@ theme = 'PaperMod'
 
 [params.profileMode]
 enabled = true
-title = "<Title>"
-subtitle = "This is subtitle"
+title = "A. Tobia C."
+subtitle = "Welcome to my little collection of stuff"
 imageUrl = "https://www.altrasoluzione.com/images/blog/siti-per-scaricare-immagini-gratis-legalmente/immagini-gratis-big.jpg"
 imageTitle = "<title of image as alt>"
 
