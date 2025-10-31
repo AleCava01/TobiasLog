@@ -21,7 +21,7 @@ imageHeight = 120
 
   [[params.profileMode.buttons]]
   name = "Archive"
-  url = "/archive"
+  url = "/ZataiLog/archive"
 
   [[params.profileMode.buttons]]
   name = "Github"
